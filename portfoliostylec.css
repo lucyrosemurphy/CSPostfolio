@@ -114,7 +114,7 @@ body{
              -5px -5px 16px #ffffff;
   margin-bottom: 20px;
   border-radius: 15px;
-  background-image: url("covid19appBack.png");
+  background-image: url("imgs/covid19appBack.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -128,7 +128,7 @@ body{
              -5px -5px 16px #ffffff;
   margin-bottom: 20px;
   border-radius: 15px;
-  background-image: url("littleadventures.png");
+  background-image: url("imgs/littleadventures.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -142,7 +142,7 @@ body{
              -5px -5px 16px #ffffff;
   margin-bottom: 20px;
   border-radius: 15px;
-  background-image: url("pokemonPopularity.png");
+  background-image: url("imgs/pokemonPopularity.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -190,7 +190,7 @@ body{
   margin-bottom: 20px;
   border-radius: 15px;
   text-align: center;
-  background-image: url("racket-logo.svg");
+  background-image: url("imgs/racket-logo.svg");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -219,7 +219,7 @@ body{
   margin-bottom: 20px;
   border-radius: 15px;
   text-align: center;
-  background-image: url("netlogologo.png");
+  background-image: url("imgs/netlogologo.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -234,7 +234,7 @@ body{
   margin-bottom: 20px;
   border-radius: 15px;
   text-align: center;
-  background-image: url("Python.jpg");
+  background-image: url("imgs/Python.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -249,7 +249,7 @@ body{
   margin-bottom: 20px;
   border-radius: 15px;
   text-align: center;
-  background-image: url("html_logo.png");
+  background-image: url("imgs/html_logo.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -264,7 +264,7 @@ body{
   margin-bottom: 20px;
   border-radius: 15px;
   text-align: center;
-  background-image: url("CSS_logo.png");
+  background-image: url(imgs/"CSS_logo.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -279,7 +279,7 @@ body{
   margin-bottom: 20px;
   border-radius: 15px;
   text-align: center;
-  background-image: url("MITlogo.png");
+  background-image: url("imgs/MITlogo.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -508,7 +508,7 @@ body{
              -5px -5px 16px #ffffff;
   margin-bottom: 20px;
   border-radius: 15px;
-  background-image: url("covid19appBack.png");
+  background-image: url("imgs/covid19appBack.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -522,7 +522,7 @@ body{
              -5px -5px 16px #ffffff;
   margin-bottom: 20px;
   border-radius: 15px;
-  background-image: url("mapItDriveItProto.png");
+  background-image: url("imgs/mapItDriveItProto.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -536,7 +536,7 @@ body{
              -5px -5px 16px #ffffff;
   margin-bottom: 20px;
   border-radius: 15px;
-  background-image: url("littleadventures.png");
+  background-image: url("imgs/littleadventures.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -550,7 +550,7 @@ body{
              -5px -5px 16px #ffffff;
   margin-bottom: 20px;
   border-radius: 15px;
-  background-image: url("pokemonPopularity.png");
+  background-image: url("imgs/pokemonPopularity.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -565,7 +565,7 @@ body{
              -5px -5px 16px #ffffff;
   margin-bottom: 20px;
   border-radius: 15px;
-  background-image: url("GoFIshProto.png");
+  background-image: url("imgs/GoFIshProto.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -613,7 +613,7 @@ body{
   margin-bottom: 20px;
   border-radius: 15px;
   text-align: center;
-  background-image: url("racket-logo.svg");
+  background-image: url("imgs/racket-logo.svg");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -642,7 +642,7 @@ body{
   margin-bottom: 20px;
   border-radius: 15px;
   text-align: center;
-  background-image: url("netlogologo.png");
+  background-image: url("imgs/netlogologo.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -657,7 +657,7 @@ body{
   margin-bottom: 20px;
   border-radius: 15px;
   text-align: center;
-  background-image: url("Python.jpg");
+  background-image: url("imgs/Python.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -672,7 +672,7 @@ body{
   margin-bottom: 20px;
   border-radius: 15px;
   text-align: center;
-  background-image: url("html_logo.png");
+  background-image: url("imgs/html_logo.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -687,7 +687,7 @@ body{
   margin-bottom: 20px;
   border-radius: 15px;
   text-align: center;
-  background-image: url("CSS_logo.png");
+  background-image: url("imgs/CSS_logo.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -702,7 +702,7 @@ body{
   margin-bottom: 20px;
   border-radius: 15px;
   text-align: center;
-  background-image: url("MITlogo.png");
+  background-image: url("imgs/MITlogo.png");
   background-repeat: no-repeat;
   background-position: center;
 }
